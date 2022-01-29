@@ -74,6 +74,7 @@ If you know what is missing here please create PR.
 - Can I Use https://caniuse.com/
 - Snippets https://www.30secondsofcode.org
 - Frontend Toolbox + Links https://www.akshay.rocks/resources
+- Must Read for Junior https://blog.javisanchez.me/must-read-for-junior-developers
 - System Design https://github.com/donnemartin/system-design-primer
 - React Redux Links https://github.com/markerikson/react-redux-links
 - YouMightNotneedJquery https://youmightnotneedjquery.com/
