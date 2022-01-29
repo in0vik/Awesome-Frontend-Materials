@@ -22,6 +22,7 @@ If you know what is missing here please create PR.
 - HTML & CSS tutorial https://marksheet.io/
 - HTML & CSS Express tutorial https://www.internetingishard.com/
 - Flexbox tutorial https://scrimba.com/learn/flexbox
+- Gitbook learn js https://gitbook.gitbook.io/learn-javascript/
 - CSS Protips https://github.com/AllThingsSmitty/css-protips
 - DevDocs https://devdocs.io/
 - Webref.ru https://webref.ru/
@@ -44,6 +45,7 @@ If you know what is missing here please create PR.
 - JS in 14 mins https://jgthms.com/javascript-in-14-minutes/
 - JSbeginners https://jsbeginners.com/
 - JavaScript Algoritms https://github.com/trekhleb/javascript-algorithms/blob/master/README.ru-RU.md
+- The Algoritms https://the-algorithms.com/language/javascript
 - Microsoft web dev for beginners https://github.com/microsoft/Web-Dev-For-Beginners
 - JetBrains Academy https://hyperskill.org/
 - Front End Guide https://github.com/grab/front-end-guide
