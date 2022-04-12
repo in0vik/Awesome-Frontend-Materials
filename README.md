@@ -114,6 +114,7 @@ If you know what is missing here please create PR.
 - FlexBoxFroggy https://flexboxfroggy.com
 - FlexBoxDefense https://flexboxdefense.com
 - CSSGridgarden https://cssgridgarden.com
+- Coding Fantasy https://codingfantasy.com
 - LearnGitBranching https://learngitbranching.js.org
 - CSS-Speedrun https://css-speedrun.netlify.app/
 - Flukeout https://flukeout.github.io/
@@ -150,7 +151,7 @@ If you know what is missing here please create PR.
 
 # ⚒️ Tools and extensions
 - Responsively https://responsively.app/
-- SmallDev Toolshttps://smalldev.tools/
+- SmallDev Tools https://smalldev.tools/
 - Wappalyzer https://www.wappalyzer.com/
 - Builtwith https://builtwith.com/
 - React Dev Tools https://github.com/facebook/react/tree/main/packages/react-devtools-extensions
@@ -159,7 +160,7 @@ If you know what is missing here please create PR.
 # ⚜️ Design 
 - Web Design in 4 minutes https://jgthms.com/web-design-in-4-minutes/
 - Design Resources for Devs https://github.com/bradtraversy/design-resources-for-developers
-- UI Playbookhttps://uiplaybook.dev/
+- UI Playbook https://uiplaybook.dev/
 - Component Gallery https://component.gallery/
 
 # 🤯 Inspiration 
