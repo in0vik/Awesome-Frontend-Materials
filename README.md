@@ -14,6 +14,9 @@ If you know what is missing here please create PR.
 - Javascript & Git Gif Driven Explainers https://dev.to/lydiahallie
 - JavaScript30 https://javascript30.com/
 - freeCodeCamp https://www.freecodecamp.org/learn
+- Scrimba - Interactive Coding Platform https://scrimba.com/
+- Mimo - Learn Coding on Mobile https://mimo.org/
+- Sololearn - Social Learning Platform https://www.sololearn.com/
 - Codewars https://www.codewars.com/dashboard
 - MDN Web Docs https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide
 - ECMA-262 https://tc39.es/ecma262/
@@ -50,8 +53,13 @@ If you know what is missing here please create PR.
 - JetBrains Academy https://hyperskill.org/
 - Front End Guide https://github.com/grab/front-end-guide
 - TypeScript docs https://www.typescriptlang.org/
+- TypeScript Roadmap https://roadmap.sh/typescript
 - Руководство по TypeScript https://metanit.com/web/typescript/
+- Mastering TypeScript 2025 https://www.udemy.com/course/learn-typescript/
 - Sass Docs https://sass-scss.ru/guide/
+- Modern CSS Features 2025 https://web.dev/learn/css/
+- CSS Container Queries https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries
+- View Transitions API https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API
 - Метархия - How Programming Works https://github.com/HowProgrammingWorks/Index
 - Node.js учебники 
   - http://imnotgenius.com/vvedeniya-v-node-js/
@@ -59,10 +67,19 @@ If you know what is missing here please create PR.
   - https://nodeguide.ru/doc/
 - Node.js Best Practices https://github.com/goldbergyoni/nodebestpractices/blob/master/README.russian.md
 - React Total https://github.com/harryheman/React-Total
+- React 19 Official Docs https://react.dev/
+- Epic React by Kent C. Dodds https://epicreact.dev/
+- React Tutorial 2025 https://github.com/DaveSimoes/React-Tutorial-2025
 - React Redux Guide https://github.com/piotrwitek/react-redux-typescript-guide
+- Next.js Docs https://nextjs.org/docs
+- Astro - Modern Static Site Generator https://astro.build/
+- Vite - Next Generation Frontend Tooling https://vitejs.dev/
+- SvelteKit https://kit.svelte.dev/
 - Clean Code JS https://github.com/ryanmcdermott/clean-code-javascript
 - Советы по созданию проектов https://github.com/elsewhencode/project-guidelines/blob/master/README-ru.md
 - Every Programmer Should Know https://github.com/mtdvio/every-programmer-should-know
+- Vitest - Modern Unit Testing https://vitest.dev/
+- Playwright - E2E Testing https://playwright.dev/
 - Правила полета на Git https://github.com/k88hudson/git-flight-rules/blob/master/README_ru.md
 - The Git Community Book https://uleming.github.io/gitbook/
 - GitHowTo https://githowto.com/ru
@@ -72,6 +89,21 @@ If you know what is missing here please create PR.
 - Airbnb Style Guide https://github.com/dangkyokhoang/javascript-style-guide
 - Can I Use https://caniuse.com/
 - Snippets https://www.30secondsofcode.org
+
+### Modern Package Managers
+- pnpm - Fast Disk-Efficient Package Manager https://pnpm.io/
+- Bun - All-in-One JavaScript Runtime https://bun.sh/
+
+### UI Component Libraries
+- shadcn/ui - Copy-Paste Component Library https://ui.shadcn.com/
+- Magic UI - Animated Components https://magicui.design/
+- UnoCSS - Atomic CSS Engine https://unocss.dev/
+- DaisyUI - Tailwind Component Library https://daisyui.com/
+
+### Deployment Platforms
+- Vercel - Next.js Optimized Hosting https://vercel.com/
+- Netlify - JAMstack Platform https://www.netlify.com/
+- Cloudflare Pages - Edge Deployment https://pages.cloudflare.com/
 - Frontend Toolbox + Links https://www.akshay.rocks/resources
 - Must Read for Junior https://blog.javisanchez.me/must-read-for-junior-developers
 - System Design https://github.com/donnemartin/system-design-primer
@@ -108,6 +140,20 @@ If you know what is missing here please create PR.
 - Lee Robinson Blog https://leerob.io/blog
 - DigitalOcean Community https://www.digitalocean.com/community
 - freeCodeCamp news https://www.freecodecamp.org/news/tag/web-development/
+
+### Newsletters (2025)
+- Frontend Focus https://frontendfoc.us/
+- JavaScript Weekly https://javascriptweekly.com/
+- CSS Weekly https://css-weekly.com/
+- Bytes https://bytes.dev/
+- Unicorn Club https://unicornclub.dev/
+
+### YouTube Channels (2025)
+- Fireship https://www.youtube.com/@Fireship
+- Kevin Powell - CSS https://www.youtube.com/@KevinPowell
+- Web Dev Simplified https://www.youtube.com/@WebDevSimplified
+- The Net Ninja https://www.youtube.com/@NetNinja
+- Traversy Media https://www.youtube.com/@TraversyMedia
 
 ## 🕹 Games
 - Flexbox Froggy https://flexboxfroggy.com
@@ -155,11 +201,21 @@ If you know what is missing here please create PR.
 - React Dev Tools https://github.com/facebook/react/tree/main/packages/react-devtools-extensions
 - Dev extensions for Chrome https://chrome.google.com/webstore/category/ext/11-web-development
 
+### AI Coding Assistants (2025)
+- GitHub Copilot https://github.com/features/copilot
+- Cursor - AI Code Editor https://cursor.sh/
+- Windsurf Editor - AI IDE https://codeium.com/windsurf
+- Codeium - Free AI Coding https://codeium.com/
+- Tabnine - Privacy-First AI https://www.tabnine.com/
+- Zencoder - Context-Aware AI https://zencoder.ai/
+
 ## ⚜️ Design
 - Web Design in 4 minutes https://jgthms.com/web-design-in-4-minutes/
 - Design Resources for Devs https://github.com/bradtraversy/design-resources-for-developers
 - UI Playbook https://uiplaybook.dev/
 - Component Gallery https://component.gallery/
+- Bestfolios - Portfolio Inspiration https://www.bestfolios.com/
+- Digital Synopsis - Designer Portfolios https://digitalsynopsis.com/design/portfolios-of-designers-at-apple-google-meta/
 
 ## 🤯 Inspiration
 - https://www.awwwards.com/
