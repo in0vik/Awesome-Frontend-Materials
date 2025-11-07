@@ -6,124 +6,225 @@
 Curated collection of resources and tutorials for beginners and advanced web developers.
 If you know what is missing here please create PR.
 
+---
+
+## 📑 Table of Contents
+
+- [💡 Learn](#-learn)
+  - [🎯 Getting Started](#-getting-started)
+  - [📚 Interactive Learning Platforms](#-interactive-learning-platforms)
+  - [🎨 HTML & CSS](#-html--css)
+  - [⚡ JavaScript](#-javascript)
+  - [🔷 TypeScript](#-typescript)
+  - [⚛️ Modern Frameworks & Build Tools](#️-modern-frameworks--build-tools)
+  - [🧪 Testing](#-testing)
+  - [🌳 Git & Version Control](#-git--version-control)
+  - [🏗️ Node.js & Backend](#️-nodejs--backend)
+  - [📖 General Resources & References](#-general-resources--references)
+  - [✨ Best Practices & Code Quality](#-best-practices--code-quality)
+- [📦 Modern Tooling](#-modern-tooling)
+- [🎨 UI Components & Libraries](#-ui-components--libraries)
+- [☁️ Deployment & Hosting](#️-deployment--hosting)
+- [🔗 Resources & References](#-resources--references)
+- [🗞 News & Blogs](#-news--blogs)
+- [🕹 Games](#-games)
+- [🎙 Interview](#-interview)
+- [📋 Cheat Sheets, Checklists, Resources](#-cheat-sheets-checklists-resources)
+- [⚒️ Tools and Extensions](#️-tools-and-extensions)
+- [⚜️ Design](#️-design)
+- [🤯 Inspiration](#-inspiration)
+
+---
+
 ## 💡 Learn
+
+### 🎯 Getting Started
+Comprehensive roadmaps and learning paths for frontend development.
+
 - Roadmap https://roadmap.sh/
-- Матрица компетентности https://t.ly/Z742
-- Дока https://doka.guide/
-- Learn.JavaScript.ru https://learn.javascript.ru/
-- Javascript & Git Gif Driven Explainers https://dev.to/lydiahallie
-- JavaScript30 https://javascript30.com/
+- Frontend Competency Matrix https://github.com/jtleek/datasharing/blob/master/README.md
+- Дока - Russian web development guide https://doka.guide/
+- The Odin Project https://www.theodinproject.com/
+- Front End Guide https://github.com/grab/front-end-guide
+- Microsoft Web Dev for Beginners https://github.com/microsoft/Web-Dev-For-Beginners
+- Google Web.dev Learn https://web.dev/learn/
+
+### 📚 Interactive Learning Platforms
+Hands-on coding platforms for learning by doing.
+
 - freeCodeCamp https://www.freecodecamp.org/learn
 - Scrimba - Interactive Coding Platform https://scrimba.com/
 - Mimo - Learn Coding on Mobile https://mimo.org/
 - Sololearn - Social Learning Platform https://www.sololearn.com/
 - Codewars https://www.codewars.com/dashboard
-- MDN Web Docs https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide
-- ECMA-262 https://tc39.es/ecma262/
-- w3schools https://www.w3schools.com/
-- w3docs https://www.w3docs.com/
+- JetBrains Academy https://hyperskill.org/
+- Степик https://stepik.org/
+- Coursera https://www.coursera.org/
+- HTML Academy
+    - Тренажеры https://htmlacademy.ru/courses
+    - Блог https://htmlacademy.ru/blog/
+
+### 🎨 HTML & CSS
+Master the foundations of web design and layout.
+
+- MDN Web Docs https://developer.mozilla.org/en-US/docs/Web
 - HTML & CSS tutorial https://marksheet.io/
 - HTML & CSS Express tutorial https://www.internetingishard.com/
 - Flexbox tutorial https://scrimba.com/learn/flexbox
-- GitBook Learn JS https://gitbook.gitbook.io/learn-javascript/
 - CSS Protips https://github.com/AllThingsSmitty/css-protips
-- DevDocs https://devdocs.io/
-- Webref.ru https://webref.ru/
-- The Odin Project https://www.theodinproject.com/
-- Enlight NY https://enlight.nyc/
-- Egghead - Free Lessons https://egghead.io/q
-- Kirupa https://www.kirupa.com/
-- DigitalOcean Tutorials https://www.digitalocean.com/community/tutorials
-- 33 Javascript Concepts https://github.com/leonardomso/33-js-concepts
-- Code Basics https://ru.code-basics.com/#courses
-- Project Based Learning https://github.com/tuvtran/project-based-learning
-- Vanilla JS Projects https://github.com/bradtraversy/vanillawebprojects
-- Book ‘You Don’t know Javascript’ RU https://github.com/azat-io/you-dont-know-js-ru
-- Google Web.dev Learn https://web.dev/learn/
-- Степик https://stepik.org/
-- HTML Academy 
-    - Тренажеры https://htmlacademy.ru/courses
-    - Блог https://htmlacademy.ru/blog/
-- Coursera https://www.coursera.org/
-- JS in 14 mins https://jgthms.com/javascript-in-14-minutes/
-- JS Beginners https://jsbeginners.com/
-- JavaScript Algorithms https://github.com/trekhleb/javascript-algorithms/blob/master/README.ru-RU.md
-- The Algorithms https://the-algorithms.com/language/javascript
-- Microsoft Web Dev for Beginners https://github.com/microsoft/Web-Dev-For-Beginners
-- JetBrains Academy https://hyperskill.org/
-- Front End Guide https://github.com/grab/front-end-guide
-- TypeScript docs https://www.typescriptlang.org/
-- TypeScript Roadmap https://roadmap.sh/typescript
-- Руководство по TypeScript https://metanit.com/web/typescript/
-- Mastering TypeScript 2025 https://www.udemy.com/course/learn-typescript/
-- Sass Docs https://sass-scss.ru/guide/
 - Modern CSS Features 2025 https://web.dev/learn/css/
 - CSS Container Queries https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries
 - View Transitions API https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API
-- Метархия - How Programming Works https://github.com/HowProgrammingWorks/Index
-- Node.js учебники 
-  - http://imnotgenius.com/vvedeniya-v-node-js/
-  - https://metanit.com/web/nodejs/
-  - https://nodeguide.ru/doc/
-- Node.js Best Practices https://github.com/goldbergyoni/nodebestpractices/blob/master/README.russian.md
-- React Total https://github.com/harryheman/React-Total
+- Sass Docs https://sass-scss.ru/guide/
+- Webref.ru https://webref.ru/
+
+### ⚡ JavaScript
+Core JavaScript concepts and advanced topics.
+
+- Learn.JavaScript.ru https://learn.javascript.ru/
+- JavaScript30 https://javascript30.com/
+- Javascript & Git Gif Driven Explainers https://dev.to/lydiahallie
+- GitBook Learn JS https://gitbook.gitbook.io/learn-javascript/
+- JS in 14 mins https://jgthms.com/javascript-in-14-minutes/
+- JS Beginners https://jsbeginners.com/
+- 33 Javascript Concepts https://github.com/leonardomso/33-js-concepts
+- Book 'You Don't know Javascript' RU https://github.com/azat-io/you-dont-know-js-ru
+- JavaScript Algorithms https://github.com/trekhleb/javascript-algorithms/blob/master/README.ru-RU.md
+- The Algorithms https://the-algorithms.com/language/javascript
+- ECMA-262 Specification https://tc39.es/ecma262/
+- Vanilla JS Projects https://github.com/bradtraversy/vanillawebprojects
+- Project Based Learning https://github.com/tuvtran/project-based-learning
+
+### 🔷 TypeScript
+Typed JavaScript for better development experience.
+
+- TypeScript Official Docs https://www.typescriptlang.org/
+- TypeScript Roadmap https://roadmap.sh/typescript
+- Руководство по TypeScript https://metanit.com/web/typescript/
+- Mastering TypeScript 2025 https://www.udemy.com/course/learn-typescript/
+
+### ⚛️ Modern Frameworks & Build Tools
+React, Vue, Svelte, and modern meta-frameworks.
+
+#### React
 - React 19 Official Docs https://react.dev/
+- React Total https://github.com/harryheman/React-Total
 - Epic React by Kent C. Dodds https://epicreact.dev/
 - React Tutorial 2025 https://github.com/DaveSimoes/React-Tutorial-2025
 - React Redux Guide https://github.com/piotrwitek/react-redux-typescript-guide
+
+#### Meta-Frameworks & SSR
 - Next.js Docs https://nextjs.org/docs
 - Astro - Modern Static Site Generator https://astro.build/
-- Vite - Next Generation Frontend Tooling https://vitejs.dev/
 - SvelteKit https://kit.svelte.dev/
-- Clean Code JS https://github.com/ryanmcdermott/clean-code-javascript
-- Советы по созданию проектов https://github.com/elsewhencode/project-guidelines/blob/master/README-ru.md
-- Every Programmer Should Know https://github.com/mtdvio/every-programmer-should-know
+
+#### Build Tools
+- Vite - Next Generation Frontend Tooling https://vitejs.dev/
+
+### 🧪 Testing
+Modern testing frameworks and best practices.
+
 - Vitest - Modern Unit Testing https://vitest.dev/
 - Playwright - E2E Testing https://playwright.dev/
+
+### 🌳 Git & Version Control
+Essential git skills and workflows.
+
 - Правила полета на Git https://github.com/k88hudson/git-flight-rules/blob/master/README_ru.md
 - The Git Community Book https://uleming.github.io/gitbook/
 - GitHowTo https://githowto.com/ru
-- FirstAidGit http://firstaidgit.ru/
+- FirstAidGit https://firstaidgit.ru/
 
-## 🔗 Other Links
-- Airbnb Style Guide https://github.com/dangkyokhoang/javascript-style-guide
-- Can I Use https://caniuse.com/
-- Snippets https://www.30secondsofcode.org
+### 🏗️ Node.js & Backend
+Backend JavaScript and Node.js development.
 
-### Modern Package Managers
+- Node.js учебники
+  - https://metanit.com/web/nodejs/
+  - https://nodeguide.ru/doc/
+- Node.js Best Practices https://github.com/goldbergyoni/nodebestpractices/blob/master/README.russian.md
+- Метархия - How Programming Works https://github.com/HowProgrammingWorks/Index
+
+### 📖 General Resources & References
+Documentation, video courses, and tutorials.
+
+- DevDocs https://devdocs.io/
+- Egghead - Free Lessons https://egghead.io/q
+- Kirupa - Web development tutorials https://www.kirupa.com/
+- Enlight - Learn to code by building projects https://enlight.nyc/
+- DigitalOcean Tutorials https://www.digitalocean.com/community/tutorials
+- Code Basics https://ru.code-basics.com/#courses
+
+### ✨ Best Practices & Code Quality
+Write better, cleaner code.
+
+- Clean Code JS https://github.com/ryanmcdermott/clean-code-javascript
+- Советы по созданию проектов https://github.com/elsewhencode/project-guidelines/blob/master/README-ru.md
+- Every Programmer Should Know https://github.com/mtdvio/every-programmer-should-know
+
+## 📦 Modern Tooling
+
+### Package Managers
+Modern alternatives to npm for faster, more efficient dependency management.
+
 - pnpm - Fast Disk-Efficient Package Manager https://pnpm.io/
 - Bun - All-in-One JavaScript Runtime https://bun.sh/
 
-### UI Component Libraries
+### Build Tools & Bundlers
+Already covered in the Learn section (Vite, etc.), but see Tools section for additional utilities.
+
+## 🎨 UI Components & Libraries
+Pre-built component libraries and design systems for faster development.
+
 - shadcn/ui - Copy-Paste Component Library https://ui.shadcn.com/
 - Magic UI - Animated Components https://magicui.design/
 - UnoCSS - Atomic CSS Engine https://unocss.dev/
 - DaisyUI - Tailwind Component Library https://daisyui.com/
 
-### Deployment Platforms
+## ☁️ Deployment & Hosting
+Modern platforms for deploying frontend applications.
+
 - Vercel - Next.js Optimized Hosting https://vercel.com/
 - Netlify - JAMstack Platform https://www.netlify.com/
 - Cloudflare Pages - Edge Deployment https://pages.cloudflare.com/
-- Frontend Toolbox + Links https://www.akshay.rocks/resources
-- Must Read for Junior https://blog.javisanchez.me/must-read-for-junior-developers
-- System Design https://github.com/donnemartin/system-design-primer
+
+## 🔗 Resources & References
+Useful tools, APIs, and reference materials for frontend development.
+
+### Code Quality & Style Guides
+- Airbnb Style Guide https://github.com/dangkyokhoang/javascript-style-guide
+- Clean Code concepts (see Learn section)
+
+### Browser Compatibility & Standards
+- Can I Use https://caniuse.com/
+- MDN Web Docs (see Learn section)
+
+### Code Snippets & Examples
+- 30 Seconds of Code https://www.30secondsofcode.org
+
+### Public APIs for Projects
+- Public APIs Collection https://github.com/public-apis/public-apis
+- Public APIs Alternative https://github.com/n0shake/Public-APIs
+
+### Curated Resource Lists
+- Frontend Toolbox https://www.akshay.rocks/resources
+- Free-for.dev - Free services for developers https://free-for.dev/
+- Awesome Lists https://github.com/sindresorhus/awesome
+- Web Development Resources https://github.com/markodenic/web-development-resources
+- Awesome Learning Resources https://github.com/lauragift21/awesome-learning-resources
+- Frontend Dev Bookmarks https://github.com/dypsilon/frontend-dev-bookmarks
+
+### Specialized Topics
+- System Design Primer https://github.com/donnemartin/system-design-primer
 - React Redux Links https://github.com/markerikson/react-redux-links
-- You Might Not Need jQuery https://youmightnotneedjquery.com/
-- Public APIs 
-  - https://github.com/public-apis/public-apis
-  - https://github.com/n0shake/Public-APIs
-- Serverless https://serverless.css-tricks.com/
-- Accessibility https://a11y.coffee/
-- Tools for better thinking https://untools.co/
-- Web Development Resource Lists
-  - https://free-for.dev/
-  - https://github.com/sindresorhus/awesome
-  - https://github.com/markodenic/web-development-resources
-  - https://github.com/lauragift21/awesome-learning-resources
-  - https://github.com/RitikPatni/Front-End-Web-Development-Resources
-  - https://github.com/PizzaPokerGuy/ultimate-coding-resources
-  - https://github.com/dypsilon/frontend-dev-bookmarks
+- Serverless Framework https://serverless.css-tricks.com/
+- Web Accessibility https://a11y.coffee/
+
+### Productivity & Focus
 - Music For Programming https://musicforprogramming.net/
+- Tools for Better Thinking https://untools.co/
+
+### Reading for Junior Developers
+- Must Read Articles https://blog.javisanchez.me/must-read-for-junior-developers
 
 ## 🗞 News & Blogs
 - CSS Tricks https://css-tricks.com/
@@ -177,7 +278,7 @@ If you know what is missing here please create PR.
 - DEV-Hints https://devhints.io/
 - Awesome Cheatsheets https://github.com/LeCoupa/awesome-cheatsheets
 - Modern JS Cheatsheet https://github.com/mbeaudru/modern-js-cheatsheet
-- Developer Cheat Sheets http://www.developer-cheatsheets.com/
+- Developer Cheat Sheets https://www.developer-cheatsheets.com/
 - Typescript + React Cheat Sheet https://react-typescript-cheatsheet.netlify.app/
 - Emmet Cheat Sheet https://docs.emmet.io/cheat-sheet/
 - GRID: A simple visual cheatsheet for CSS Grid Layout https://grid.malven.co/
@@ -235,7 +336,7 @@ If you know what is missing here please create PR.
 - https://www.admiretheweb.com/
 - https://abduzeedo.com/tags/ui-ux
 - https://www.designspiration.com/
-- http://www.calltoidea.com/
+- Call to Idea https://www.calltoidea.com/
 - https://brutalistwebsites.com/
 - https://cargo.site/In-Use
 - https://www.pinterest.com/
