@@ -152,6 +152,7 @@ If you know what is missing here please create PR.
 # ⚒️ Tools and extensions
 - Responsively https://responsively.app/
 - SmallDev Tools https://smalldev.tools/
+- BestJSON JSON Diff https://bestjson.com/json-diff
 - Wappalyzer https://www.wappalyzer.com/
 - Builtwith https://builtwith.com/
 - React Dev Tools https://github.com/facebook/react/tree/main/packages/react-devtools-extensions
